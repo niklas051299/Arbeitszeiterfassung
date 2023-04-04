@@ -1,0 +1,22 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#time-tracking-form {
+    margin-top: 40px;
+}
+
+#getter{
+    margin-top: 20px;
+}
+
+label {
+    font-size: 24px;
+}
+
+p {
+    font-size: 24px;
+    margin-top: 50px;
+}
